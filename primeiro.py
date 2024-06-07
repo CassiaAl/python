@@ -13,4 +13,4 @@ print("O total da compra foi de R$ {:.2f}".format(totalCompra))
 print(f'O total da compra foi de : {totalCompra:.2f}')
 
 #Adicionando Comentário
-
+print("teste")
