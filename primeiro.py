@@ -15,3 +15,5 @@ print(f'O total da compra foi de : {totalCompra:.2f}')
 #Testes
 #Testes
 
+#Adicionando Comentário
+print("teste")
